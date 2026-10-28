@@ -1,0 +1,7 @@
+*.Rhistory
+.Rhistory
+output/
+data_orgn/
+input/
+data_source/
+data_original/
